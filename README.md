@@ -2,9 +2,9 @@ MEAN  Period 2
 
 Why would you consider a Scripting Language as JavaScript as your Backend Platform?
 ----------------------------------------------------------------------------------
--It is simple to use
--Many developers creating packages for javascript, many of these are open source projects
--No compilation necessary
+- It is simple to use
+- Many developers creating packages for javascript, many of these are open source projects
+- No compilation necessary
 
 Explain Pros & Cons in using Node.js + Express to implement your Backend compared to a strategy using for example Java/JAX-RS/Tomcat
 ----------------------------------------------------------------------------------
