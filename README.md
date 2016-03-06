@@ -1,5 +1,3 @@
-MEAN  Period 2
-
 Why would you consider a Scripting Language as JavaScript as your Backend Platform?
 ----------------------------------------------------------------------------------
 - It is simple to use
