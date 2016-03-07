@@ -22,7 +22,7 @@ Setting up a server in JAVA consists of Tomcat Server, Servlet and XML files to 
 Cons: Some of the cons with using Node.js and Express is the use of middleware, which is necessary to perform tasks, as there are alot of different ones with a big difference in quality and security. Futhermore there are security issues in using Node.js as with using Javascript, and as many start using Node.js and Express for server side, many malicious programmers will try to exploit this. But a taskforce is being established to address the issues with malicious NPM modules to audit modules on NPM.
 
 Node.js uses a Single Threaded Non-blocking strategy to handle asynchronous task. Explain strategies to implement a Node.js based server architecture that still could take advantage of a multi-core Server
-
+--------------------------------------------------------------------------------
 There are two ways to handle multicore systems with Node.js - the first solution is to have a central system which handles requests and distributes them to each of their own singlecore virtual machine. This is a fine solution but can be costly on the virualization side when alot of request is to be handled.
 
 The other solution is to use the cluster module included in Node.js 0.8+ which has a master process which creates 'worker' processes that can handle the multicore system use.
